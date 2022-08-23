@@ -21,8 +21,8 @@ const Sus = () => {
           />
           <button className="px-10">Sign Up</button>
         </div>
-        <div className="flex gap-1 py-4 justify-center">
-          <input type="checkbox" name="" id="" /> <span></span>
+        <div className=" flex  gap-1 py-4 justify-center">
+          <input className='mb-5 ml-2' type="checkbox" name="" id="" /> 
           <p>
             Yes, I agree to receive email communications from{" "}
             <span className="text-pblue">Defi</span>{" "}

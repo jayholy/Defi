@@ -1,5 +1,5 @@
 import React from "react";
-import vid from "../assets/video.mp4";
+import vid from "../assets/video.m4v";
 const Hero = () => {
   return (
     <div name='home' className="w-full h-[90vh] top-[90px]">
